@@ -18,4 +18,4 @@ header-includes:
 - \usepackage{xcolor}
 - \usepackage{sectsty}
 - \sectionfont{\color{olive}}
-- \usepackage{verbatim}
+- \usepackage{verbatim} 
